@@ -97,4 +97,5 @@ Business insight generation
 
 
 Screenshots:
-  
+ Dashboard: https://github.com/MangeshM25/UPI-Transactions-Data-Analysis-/blob/main/Screenshot%202026-06-27%20145235.png
+ Extract: https://github.com/MangeshM25/UPI-Transactions-Data-Analysis-/blob/main/Screenshot%202026-06-27%20145614.png
